@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Pdf Editor WebApp
+
+A pdf editor written in reactJs to edit pdfs.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
