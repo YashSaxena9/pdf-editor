@@ -1,4 +1,3 @@
-
 const scripts = [
   {
     name: 'pdfjsLib',
